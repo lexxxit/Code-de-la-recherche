@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2005-01-19
 
 # Partie législative
 
@@ -2133,6 +2133,10 @@ eux et une ou plusieurs personnes morales de droit public ou de droit privé pou
 déterminée, des activités de recherche ou de développement technologique, ou gérer des équipements d'intérêt commun
 nécessaires à ces activités.
 
+Des groupements d'intérêt public peuvent également être créés pour apporter, en particulier par la création de dispositifs de
+réussite éducative, un soutien éducatif, culturel, social et sanitaire aux enfants relevant de l'enseignement du premier et
+du second degré.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -2143,6 +2147,10 @@ nécessaires à ces activités.
 	**Codifié par**:
 
 	  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+
+	**Modifié par**:
+
+	  - Loi n°2005-32 2005-01-18 art. 131 1° JORF 19 janvier 2005
 
 	**Cité par**:
 
@@ -2660,7 +2668,8 @@ Les dispositions des articles L. 341-1 à L. 341-4 sont applicables à Mayotte.
 
 ###### Article L352-1
 
-Les dispositions des articles L. 341-1 à L. 341-4 sont applicables en Nouvelle-Calédonie.
+Les dispositions du premier alinéa de l'article L. 341-1 et des articles L. 341-2 à L. 341-4 sont applicables en Nouvelle-
+Calédonie.
 
 **Liens relatifs à cet article**
 
@@ -2673,16 +2682,26 @@ Les dispositions des articles L. 341-1 à L. 341-4 sont applicables en Nouvelle-
 
 	  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
 
+	**Modifié par**:
+
+	  - Loi n°2005-32 2005-01-18 art. 131 2° JORF 19 janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+
 	**Cite**:
 
-	  - Code de la recherche L341-1 à L341-4
+	  - Code de la recherche
+	  - Code de la recherche - art. L341-1
 
 
 #### Chapitre III : Dispositions applicables en Polynésie française.
 
 ###### Article L353-1
 
-Les dispositions des articles L. 341-1 à L. 341-4 sont applicables en Polynésie française.
+Les dispositions du premier alinéa de l'article L. 341-1 et des articles L. 341-2 à L. 341-4 sont applicables en Polynésie
+française.
 
 **Liens relatifs à cet article**
 
@@ -2695,9 +2714,18 @@ Les dispositions des articles L. 341-1 à L. 341-4 sont applicables en Polynési
 
 	  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
 
+	**Modifié par**:
+
+	  - Loi n°2005-32 2005-01-18 art. 131 2° JORF 19 janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+
 	**Cite**:
 
-	  - Code de la recherche L341-1 à L341-4
+	  - Code de la recherche
+	  - Code de la recherche - art. L341-1
 
 
 #### Chapitre IV : Dispositions applicables dans les îles Wallis et Futuna.
@@ -2730,7 +2758,8 @@ Les dispositions des articles L. 341-1 à L. 341-4 sont applicables dans les îl
 
 ###### Article L355-1
 
-Les dispositions des articles L. 341-1 à L. 341-4 sont applicables dans les Terres australes et antarctiques françaises.
+Les dispositions du premier alinéa de l'article L. 341-1 et des articles L. 341-2 à L. 341-4 sont applicables dans les Terres
+australes et antarctiques françaises.
 
 **Liens relatifs à cet article**
 
@@ -2743,9 +2772,18 @@ Les dispositions des articles L. 341-1 à L. 341-4 sont applicables dans les Ter
 
 	  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
 
+	**Modifié par**:
+
+	  - Loi n°2005-32 2005-01-18 art. 131 2° JORF 19 janvier 2005
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+
 	**Cite**:
 
-	  - Code de la recherche L341-1 à L341-4
+	  - Code de la recherche
+	  - Code de la recherche - art. L341-1
 
 
 ## LIVRE IV : LES PERSONNELS DE LA RECHERCHE
