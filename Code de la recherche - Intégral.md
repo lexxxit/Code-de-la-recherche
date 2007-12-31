@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2007-04-27
+Version Consolidée au 2008-01-01
 
 # Partie législative
 
@@ -1183,43 +1183,6 @@ et financier.
 
 
 ### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER
-
-#### Chapitre Ier : Dispositions applicables à Mayotte.
-
-###### Article L141-1
-
-Les dispositions des articles L. 113-3, L. 114-1, L. 114-1-1, L. 114-3-1, L. 114-3-3, L. 114-3-4, L. 114-3-5, L. 114-3-6 sont
-applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-653 du 29 juillet 1982 - art. 21 (M)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-	**Modifié par**:
-
-	  - loi n°2006-450 du 18 avril 2006 - art. 44 () JORF 19 avril 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 5
-
-	**Cite**:
-
-	  - Code de la recherche - art. L113-3 (V)
-	  - Code de la recherche - art. L114-1 (V)
-	  - Code de la recherche - art. L114-1-1 (V)
-	  - Code de la recherche - art. L114-3-1 (V)
-	  - Code de la recherche - art. L114-3-3 (V)
-	  - Code de la recherche - art. L114-3-4 (V)
-	  - Code de la recherche - art. L114-3-5 (V)
-	  - Code de la recherche - art. L114-3-6 (V)
-
 
 #### Chapitre II : Dispositions applicables en Nouvelle-Calédonie.
 
@@ -4072,27 +4035,35 @@ présente section.
 
 ###### Article L351-1
 
-Les dispositions des articles L. 341-1 à L. 341-4 sont applicables à Mayotte.
+1° Pour l'application du présent livre à Mayotte, le ministre chargé de l'enseignement supérieur et de la recherche exerce
+les compétences dévolues au recteur d'académie. 
+
+2° Pour l'application de l'article L. 342-11, la référence à l'article 1039 du code général des impôts est remplacée par la
+référence aux dispositions ayant le même objet applicables localement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°82-610 1982-07-15 art. 21
 	  - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
 
 	**Cité par**:
 
 	  - Loi n°2005-781 du 13 juillet 2005 - art. 25 (VT)
 	  - Code de l'énergie - art. L211-3 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 5
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+
 	**Cite**:
 
-	  - Code de la recherche L341-1 à L341-4
+	  - Code général des impôts, CGI. - art. 1039
+	  - Code de la recherche - art. L342-11
 
 
 #### Chapitre II : Dispositions applicables en Nouvelle-Calédonie.
@@ -5503,37 +5474,6 @@ code du travail.
 
 
 ### TITRE IV : DISPOSITIONS RELATIVES À L'OUTRE-MER
-
-#### Chapitre Ier : Dispositions applicables à Mayotte.
-
-###### Article L441-1
-
-Les dispositions des articles L. 411-3, L. 413-1 à L. 413-16, L. 421-1 à L. 421-3, L. 422-1, L. 422-2, L. 431-1, L. 431-2, L.
-432-1, L. 432-2 et L. 433-1 sont applicables à Mayotte.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2007-1801 du 21 décembre 2007 - art. 5
-
-	**Cite**:
-
-	  - Code de la recherche - art. L411-3 (V)
-	  - Code de la recherche - art. L413-1 (V)
-	  - Code de la recherche - art. L421-1 (V)
-	  - Code de la recherche - art. L422-1 (V)
-	  - Code de la recherche - art. L422-2 (V)
-	  - Code de la recherche - art. L431-1 (V)
-	  - Code de la recherche - art. L431-2 (V)
-	  - Code de la recherche - art. L432-1 (V)
-	  - Code de la recherche - art. L432-2 (V)
-	  - Code de la recherche - art. L433-1 (V)
-
 
 #### Chapitre II : Dispositions applicables en Nouvelle-Calédonie.
 
