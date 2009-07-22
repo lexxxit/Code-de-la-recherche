@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2008-12-13
+Version Consolidée au 2009-07-23
 
 # Partie législative
 
@@ -311,19 +311,18 @@ d) La formation à la recherche et par la recherche.
 
 ###### Article L112-2
 
-La recherche publique est organisée dans les services publics, notamment les établissements publics d'enseignement supérieur
-et les établissements publics de recherche, et dans les entreprises publiques.
+La recherche publique est organisée dans les services publics, notamment les établissements publics d'enseignement supérieur,
+les établissements publics de recherche et les établissements de santé, et dans les entreprises publiques.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°82-610 1982-07-15 art. 14
 	  - Loi n°82-610 du 15 juillet 1982 - art. 14 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+	  - Loi n°2009-879 du 21 juillet 2009 - art. 19
 
 	**Cité par**:
 
@@ -2315,8 +2314,6 @@ des dispositions des II et III.
 
 
 ### TITRE III : LES ÉTABLISSEMENTS PUBLICS À CARACTÈRE INDUSTRIEL ET COMMERCIAL
-
-#### Chapitre Ier : Centre national d'études spatiales (CNES).
 
 #### Chapitre Ier : Etablissements de recherche dans le domaine de l'espace et de l'aéronautique.
 
