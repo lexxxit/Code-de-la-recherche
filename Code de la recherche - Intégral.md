@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2010-01-01
+Version Consolidée au 2010-03-11
 
 # Partie législative
 
@@ -2519,10 +2519,12 @@ le président du Centre national d'études spatiales peut déléguer sa compéte
 
 ##### Section 1 : Commissariat à l'énergie atomique (CEA).
 
+##### Section 1 : Commissariat à l'énergie atomique et aux énergies alternatives (CEA).
+
 ###### Article L332-1
 
-Le Commissariat à l'énergie atomique est un établissement à caractère scientifique, technique et industriel, doté de la
-personnalité morale ainsi que de l'autonomie administrative et financière.
+Le     Commissariat à l'énergie atomique et aux énergies alternatives est un établissement à caractère scientifique,
+technique et industriel, doté de la personnalité morale ainsi que de l'autonomie administrative et financière.
 
 **Liens relatifs à cet article**
 
@@ -2543,28 +2545,28 @@ personnalité morale ainsi que de l'autonomie administrative et financière.
 	  - Code de la recherche - art. L366-1 (V)
 	  - Code de la recherche - art. L367-1 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+	  - Loi n°2010-237 du 9 mars 2010 - art. 9
 
 
 ###### Article L332-2
 
 En vue de l'utilisation de l'énergie nucléaire dans les domaines de la science, de l'industrie et de la défense, le
-Commissariat à l'énergie atomique a notamment pour mission de poursuivre les recherches scientifiques et techniques
-nécessaires, de participer à la protection des personnes et des biens contre les effets de l'énergie atomique, d'exercer des
-activités de recherche, de production, de stockage, de transport, de transformation et de commerce de matières premières
-nucléaires. Il peut également, dans des conditions fixées par voie réglementaire, prolonger certaines de ces activités de
-recherche et de développement dans des domaines non nucléaires.
+Commissariat à l'énergie atomique et aux énergies alternatives a notamment pour mission de poursuivre les recherches
+scientifiques et techniques nécessaires, de participer à la protection des personnes et des biens contre les effets de
+l'énergie atomique, d'exercer des activités de recherche, de production, de stockage, de transport, de transformation et de
+commerce de matières premières nucléaires. Il peut également, dans des conditions fixées par voie réglementaire, prolonger
+certaines de ces activités de recherche et de développement dans des domaines non nucléaires. 
 
 Le Comité de l'énergie atomique, dont la composition est fixée par voie réglementaire, arrête le programme de recherche, de
-fabrication et de travaux du Commissariat à l'énergie atomique.
+fabrication et de travaux du     Commissariat à l'énergie atomique et aux énergies alternatives.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+	  - Loi n°2010-237 du 9 mars 2010 - art. 9
 
 	**Cité par**:
 
@@ -2579,10 +2581,10 @@ fabrication et de travaux du Commissariat à l'énergie atomique.
 
 Le conseil d'administration comprend des représentants de l'Etat, dont l'administrateur général, des personnalités désignées
 en raison de leur compétence et des représentants du personnel élus dans les conditions prévues par le chapitre II du titre
-II de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public.
+II de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public. 
 
-La direction générale du Commissariat à l'énergie atomique est assurée par l'administrateur général nommé par décret en
-conseil des ministres.
+La direction générale du     Commissariat à l'énergie atomique et aux énergies alternatives est assurée par l'administrateur
+général nommé par décret en conseil des ministres.
 
 **Liens relatifs à cet article**
 
@@ -2590,9 +2592,9 @@ conseil des ministres.
 
 	  - Loi n°83-675 du 26 juillet 1983
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+	  - Loi n°2010-237 du 9 mars 2010 - art. 9
 
 
 ###### Article L332-4
@@ -2622,11 +2624,11 @@ souhaitable. Il préside un conseil scientifique.
 
 ###### Article L332-5
 
-Les sommes nécessaires à l'accomplissement de la mission du Commissariat à l'énergie atomique sont inscrites chaque année au
-budget de l'Etat.
+Les sommes nécessaires à l'accomplissement de la mission du     Commissariat à l'énergie atomique et aux énergies
+alternatives sont inscrites chaque année au budget de l'Etat. 
 
-Le Commissariat à l'énergie atomique est, en outre, habilité à recevoir toutes subventions publiques ainsi que tous dons ou
-legs en argent ou en nature.
+Le     Commissariat à l'énergie atomique et aux énergies alternatives est, en outre, habilité à recevoir toutes subventions
+publiques ainsi que tous dons ou legs en argent ou en nature.
 
 **Liens relatifs à cet article**
 
@@ -2634,19 +2636,20 @@ legs en argent ou en nature.
 
 	  - Ordonnance n°45-2563 du 18 octobre 1945 - art. 7 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+	  - Loi n°2010-237 du 9 mars 2010 - art. 9
 
 
 ###### Article L332-6
 
-Le Commissariat à l'énergie atomique est autorisé à assurer sa gestion financière et à présenter sa comptabilité suivant les
-règles et usages du commerce.
+Le     Commissariat à l'énergie atomique et aux énergies alternatives est autorisé à assurer sa gestion financière et à
+présenter sa comptabilité suivant les règles et usages du commerce. 
 
-Il est soumis à un contrôle financier spécifique dont les règles sont déterminées par décret en Conseil d'Etat.
+Il est soumis à un contrôle financier spécifique dont les règles sont déterminées par décret en Conseil d'Etat. 
 
-Le commissariat ne peut recourir à des emprunts publics sans l'approbation préalable de l'autorité administrative compétente.
+Le commissariat ne peut recourir à des emprunts publics sans l'approbation préalable de l'autorité administrative
+compétente. 
 
 Afin de prendre en charge des activités nécessitant des modalités particulières de gestion, un décret en Conseil d'État peut
 autoriser le commissariat à créer en son sein des services dotés de l'autonomie administrative et budgétaire, dirigés par un
@@ -2660,9 +2663,9 @@ concernés.
 
 	  - Ordonnance n°45-2563 du 18 octobre 1945 - art. 5 (V)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+	  - Loi n°2010-237 du 9 mars 2010 - art. 9
 
 	**Cité par**:
 
