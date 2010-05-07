@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2010-03-11
+Version Consolidée au 2010-05-08
 
 # Partie législative
 
@@ -397,8 +397,8 @@ titulaires par des contrats de droit public à durée déterminée ou indétermi
 
 ###### Article L112-4
 
-La recherche agronomique et vétérinaire est régie par les dispositions de l'article L. 830-1 du code rural, ci-après
-reproduites :
+La recherche agronomique et vétérinaire est régie par les dispositions de l'article L. 830-1 du code rural et de la pêche
+maritime, ci-après reproduites :
 
 " Art. L. 830-1. - La recherche agronomique et vétérinaire concourt au développement et à la compétitivité de la filière
 agricole et du secteur de la transformation des produits agricoles. Elle répond en priorité aux impératifs de la gestion
@@ -429,14 +429,9 @@ fois sur les personnels, les équipes, les programmes et les résultats. "
 
 	  - Code rural L830-1
 
-	**Codifié par**:
-
-	  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
 	**Modifié par**:
 
-	  - Loi n°2006-11 du 5 janvier 2006 - art. 43 () JORF 6 janvier 2006
-	  - Loi n°2006-11 du 5 janvier 2006 - art. 91 () JORF 6 janvier 2006
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 
 ###### Article L112-5
@@ -1486,17 +1481,17 @@ chapitre VI du titre II du livre II du code pénal, notamment par son article 22
 ###### Article L231-1
 
 L'interdiction des mauvais traitements envers les animaux notamment dans la pratique de l'expérimentation animale est
-prescrite par les dispositions de l'article L. 214-3 du code rural.
+prescrite par les dispositions de l'article L. 214-3 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+
 	**Cite**:
 
-	  - Code rural L214-3
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+	  - Code rural - art. L214-3 (V)
 
 
 ###### Article L231-2
@@ -2516,8 +2511,6 @@ le président du Centre national d'études spatiales peut déléguer sa compéte
 
 
 #### Chapitre II : Etablissements de recherche dans le domaine de l'énergie.
-
-##### Section 1 : Commissariat à l'énergie atomique (CEA).
 
 ##### Section 1 : Commissariat à l'énergie atomique et aux énergies alternatives (CEA).
 
