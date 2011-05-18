@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2010-12-15
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -2734,145 +2734,6 @@ des articles L. 131-3 à L. 131-7 du code de l'environnement.
 
 ### TITRE IV : LES STRUCTURES DE COOPÉRATION
 
-#### Chapitre Ier : Les groupements d'intérêt public.
-
-###### Article L341-1
-
-Des groupements d'intérêt public dotés de la personnalité morale et de l'autonomie financière peuvent être constitués entre
-des établissements publics ayant une activité de recherche et de développement technologique, entre l'un ou plusieurs d'entre
-eux et une ou plusieurs personnes morales de droit public ou de droit privé pour exercer ensemble, pendant une durée
-déterminée, des activités de recherche ou de développement technologique, ou gérer des équipements d'intérêt commun
-nécessaires à ces activités.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-	**Cité par**:
-
-	  - Loi n°2005-781 du 13 juillet 2005 - art. 25 (VT)
-	  - Arrêté du 24 décembre 2007 - art. 1 (V)
-	  - Décret n°2008-1308 du 11 décembre 2008 (Ab)
-	  - Loi n°2009-594 du 27 mai 2009 - art. 35 (V)
-	  - Code de l'énergie - art. L211-3 (VD)
-	  - Code de l'action sociale et des familles - art. L312-8 (V)
-	  - Code de l'éducation - art. R313-50 (V)
-	  - Code de la recherche - art. L352-1 (Ab)
-	  - Code de la recherche - art. L353-1 (Ab)
-	  - Code de la recherche - art. L355-1 (Ab)
-	  - Code de la recherche - art. L365-1 (V)
-	  - Code de la recherche - art. L366-1 (V)
-	  - Code de la recherche - art. L367-1 (V)
-	  - Code de la santé publique - art. L6113-10 (VT)
-	  - Code du sport. - art. L114-1 (Ab)
-	  - Code rural - art. L. 256-2-1 (V)
-	  - Code rural et de la pêche maritime - art. L812-5 (Ab)
-
-	**Modifié par**:
-
-	  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-
-###### Article L341-2
-
-Le groupement d'intérêt public ne donne pas lieu à la réalisation ni au partage de bénéfices. Il peut être constitué sans
-capital. Les droits de ses membres ne peuvent être représentés par des titres négociables. Toute clause contraire est réputée
-non écrite.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-610 1982-07-15 art. 21
-	  - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-545 du 11 juin 2004
-
-	**Cité par**:
-
-	  - Code des transports - art. L5242-20 (V)
-	  - Code de la santé publique - art. L6113-10-1 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-
-###### Article L341-3
-
-Les personnes morales de droit public, les entreprises nationales et les personnes morales de droit privé chargées de la
-gestion d'un service public doivent disposer ensemble de la majorité des voix dans l'assemblée du groupement et dans le
-conseil d'administration qu'elles désignent.
-
-Le directeur du groupement, nommé par le conseil d'administration, assure, sous l'autorité du conseil et de son président, le
-fonctionnement du groupement. Dans les rapports avec les tiers, le directeur engage le groupement pour tout acte entrant dans
-l'objet de celui-ci.
-
-Un commissaire du Gouvernement est nommé auprès du groupement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-610 1982-07-15 art. 21
-	  - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2004-545 du 11 juin 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-
-###### Article L341-4
-
-La convention par laquelle est constitué le groupement doit être approuvée par l'autorité administrative, qui en assure la
-publicité. Elle détermine les modalités de participation des membres et les conditions dans lesquelles ils sont tenus des
-dettes du groupement. Elle indique notamment les conditions dans lesquelles ceux-ci mettent à la disposition du groupement
-des personnels rémunérés par eux.
-
-Le groupement d'intérêt public est soumis au contrôle de la Cour des comptes dans les conditions prévues par l'article L.
-133-2 du code des juridictions financières.
-
-La transformation de toute autre personne morale en groupement d'intérêt public n'entraîne ni dissolution ni création d'une
-personne morale nouvelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°82-610 1982-07-15 art. 21
-	  - Loi n°82-610 du 15 juillet 1982 - art. 21 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
-
-	**Cité par**:
-
-	  - Loi n°2009-594 du 27 mai 2009 - art. 35 (V)
-	  - Code de l'action sociale et des familles - art. L312-8 (V)
-	  - Code de la santé publique - art. L6113-10-1 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-	**Cite**:
-
-	  - Code des juridictions financières - art. L133-2
-
-
 #### Chapitre II : Les centres techniques industriels.
 
 ###### Article L342-1
@@ -3886,29 +3747,27 @@ dévolues au recteur d'académie.
 ###### Article L365-1
 
 Les dispositions des articles L. 311-1 à L. 311-3, L. 312-1, L. 313-1 à L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8,
-L. 332-1 à L. 332-7, L. 341-1 à L. 341-4, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables dans les îles Wallis
-et Futuna. 
+L. 332-1 à L. 332-7, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables dans les îles Wallis et Futuna. 
 
 Pour l'application du présent livre dans les îles Wallis et Futuna, le ministre chargé de la recherche exerce les compétences
 dévolues au recteur d'académie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+	  - Loi n°2011-525 du 17 mai 2011 - art. 119
 
 	**Cite**:
 
-	  - Code de la recherche - art. L311-1
-	  - Code de la recherche - art. L312-1
-	  - Code de la recherche - art. L313-1
-	  - Code de la recherche - art. L321-1
-	  - Code de la recherche - art. L331-1
-	  - Code de la recherche - art. L332-1
-	  - Code de la recherche - art. L341-1
-	  - Code de la recherche - art. L342-1
-	  - Code de la recherche - art. L344-1
+	  - Code de la recherche - art. L311-1 (V)
+	  - Code de la recherche - art. L312-1 (V)
+	  - Code de la recherche - art. L313-1 (V)
+	  - Code de la recherche - art. L321-1 (V)
+	  - Code de la recherche - art. L331-1 (V)
+	  - Code de la recherche - art. L332-1 (V)
+	  - Code de la recherche - art. L342-1 (V)
+	  - Code de la recherche - art. L344-1 (V)
 
 
 #### Chapitre VI : Dispositions relatives à la Polynésie française.
@@ -3916,29 +3775,27 @@ dévolues au recteur d'académie.
 ###### Article L366-1
 
 Les dispositions des articles L. 311-1 à L. 311-3, L. 312-1, L. 313-1 à L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8,
-L. 332-1 à L. 332-7, L. 341-1 à L. 341-4, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables en Polynésie
-française. 
+L. 332-1 à L. 332-7, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables en Polynésie française. 
 
 Pour l'application du présent livre en Polynésie française, le ministre chargé de la recherche exerce les compétences
 dévolues au recteur d'académie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+	  - Loi n°2011-525 du 17 mai 2011 - art. 119
 
 	**Cite**:
 
-	  - Code de la recherche - art. L311-1
-	  - Code de la recherche - art. L312-1
-	  - Code de la recherche - art. L313-1
-	  - Code de la recherche - art. L321-1
-	  - Code de la recherche - art. L331-1
-	  - Code de la recherche - art. L332-1
-	  - Code de la recherche - art. L341-1
-	  - Code de la recherche - art. L342-1
-	  - Code de la recherche - art. L344-1
+	  - Code de la recherche - art. L311-1 (V)
+	  - Code de la recherche - art. L312-1 (V)
+	  - Code de la recherche - art. L313-1 (V)
+	  - Code de la recherche - art. L321-1 (V)
+	  - Code de la recherche - art. L331-1 (V)
+	  - Code de la recherche - art. L332-1 (V)
+	  - Code de la recherche - art. L342-1 (V)
+	  - Code de la recherche - art. L344-1 (V)
 
 
 #### Chapitre VII : Dispositions relatives à la Nouvelle-Calédonie.
@@ -3946,29 +3803,27 @@ dévolues au recteur d'académie.
 ###### Article L367-1
 
 Les dispositions des articles L. 311-1 à L. 311-3, L. 312-1, L. 313-1 à L. 313-2, L. 321-1 à L. 321-4, L. 331-1 à L. 331-8,
-L. 332-1 à L. 332-7, L. 341-1 à L. 341-4, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables en Nouvelle-
-Calédonie. 
+L. 332-1 à L. 332-7, L. 342-1 à L. 342-13 et L. 344-1 à L. 344-16 sont applicables en Nouvelle-Calédonie. 
 
 Pour l'application du présent livre en Nouvelle-Calédonie, le ministre chargé de la recherche exerce les compétences dévolues
 au recteur d'académie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 3
+	  - Loi n°2011-525 du 17 mai 2011 - art. 119
 
 	**Cite**:
 
-	  - Code de la recherche - art. L311-1
-	  - Code de la recherche - art. L312-1
-	  - Code de la recherche - art. L313-1
-	  - Code de la recherche - art. L321-1
-	  - Code de la recherche - art. L331-1
-	  - Code de la recherche - art. L332-1
-	  - Code de la recherche - art. L341-1
-	  - Code de la recherche - art. L342-1
-	  - Code de la recherche - art. L344-1
+	  - Code de la recherche - art. L311-1 (V)
+	  - Code de la recherche - art. L312-1 (V)
+	  - Code de la recherche - art. L313-1 (V)
+	  - Code de la recherche - art. L321-1 (V)
+	  - Code de la recherche - art. L331-1 (V)
+	  - Code de la recherche - art. L332-1 (V)
+	  - Code de la recherche - art. L342-1 (V)
+	  - Code de la recherche - art. L344-1 (V)
 
 
 #### Chapitre VIII : Dispositions relatives aux Terres australes et antarctiques françaises.
