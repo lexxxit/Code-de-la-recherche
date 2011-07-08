@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-07-09
 
 # Partie législative
 
@@ -1324,14 +1324,14 @@ suivants du code de la santé publique :
 2° S'agissant des organes, les articles L. 1232-1 à L. 1232-3, le troisième alinéa de l'article L. 1235-1 et l'article L.
 1235-2 ; 
 
-3° S'agissant des tissus et cellules, les articles L. 1241-5, L. 1243-3, L. 1243-4, L. 1245-2 et le huitième alinéa de
+3° S'agissant des tissus et cellules, les articles L. 1241-5, L. 1243-3, L. 1243-4, L. 1245-2 et le septième alinéa de
 l'article L. 1245-5.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2008-1305 du 11 décembre 2008 - art. 2
+	  - Loi n°2011-814 du 7 juillet 2011 - art. 17
 
 	**Cite**:
 
