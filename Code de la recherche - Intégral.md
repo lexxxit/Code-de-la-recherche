@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2011-07-09
+Version Consolidée au 2011-08-03
 
 # Partie législative
 
@@ -1110,18 +1110,26 @@ commerciales ou agricoles sont prévues par les dispositions de l'article L. 45 
 
 ###### Article L132-1
 
-Les fonds communs de placement dans l'innovation sont définis par les dispositions de l'article L. 214-41 du code monétaire
+Les fonds communs de placement dans l'innovation sont définis par les dispositions de l'article L. 214-30 du code monétaire
 et financier.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+	  - Ordonnance n°2004-545 du 11 juin 2004
+
+	**Modifié par**:
+
+	  - Ordonnance n°2011-915 du 1er août 2011 - art. 28
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2014-135 du 17 février 2014 - art. 1 (V)
 
 	**Cite**:
 
-	  - Code monétaire et financier - art. L214-41 (M)
+	  - Code monétaire et financier - art. L214-30
 
 
 #### Chapitre III : L'aide à l'innovation.
