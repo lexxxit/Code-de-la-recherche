@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2012-07-01
+Version Consolidée au 2013-07-10
 
 # Partie législative
 
@@ -1918,15 +1918,19 @@ En cas de rattachement, les établissements conservent leur personnalité morale
 
 ###### Article L312-1
 
-Les établissements publics à caractère scientifique, culturel et professionnel et leurs composantes, les instituts
-universitaires de formation des maîtres et les autres établissements publics d'enseignement supérieur participent au service
-public de la recherche dans les conditions fixées aux titres Ier, II et IV à VI du livre VII du code de l'éducation.
+Les établissements publics à caractère scientifique, culturel et professionnel et leurs composantes et les autres
+établissements publics d'enseignement supérieur participent au service public de la recherche dans les conditions fixées aux
+titres Ier, II et IV à VI du livre VII du code de l'éducation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+	  - Ordonnance n°2004-545 du 11 juin 2004
+
+	**Modifié par**:
+
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 75
 
 	**Cité par**:
 
@@ -3274,6 +3278,10 @@ Ces pôles peuvent être dotés de la personnalité morale, notamment sous la fo
 établissement public de coopération scientifique régi par la section 2 ou d'une fondation de coopération scientifique régie
 par la section 3 du présent chapitre.
 
+Lorsqu'il prend la forme d'un établissement public de coopération scientifique, le pôle de recherche et d'enseignement
+supérieur peut comprendre une école supérieure du professorat et de l'éducation dans les conditions fixées au chapitre Ier du
+titre II du livre VII de la troisième partie du code de l'éducation.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -3340,11 +3348,15 @@ par la section 3 du présent chapitre.
 
 	**Codifié par**:
 
-	  - Ordonnance 2004-545 2004-06-11 JORF 16 juin 2004
+	  - Ordonnance n°2004-545 du 11 juin 2004
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - n°2006-450 du 18 avril 2006 - art. 5 () JORF 19 avril 2006
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 75
+
+	**Abrogé par**:
+
+	  - Loi n°2013-660 du 22 juillet 2013 - art. 66
 
 
 ###### Article L344-2
@@ -3425,7 +3437,10 @@ l'article L. 344-1.
 
 3° La valorisation des activités de recherche menées en commun ; 
 
-4° La promotion internationale du pôle. 
+4° La promotion internationale du pôle ;
+
+5° La formation des personnels enseignants et d'éducation lorsqu'il comprend une école supérieure du professorat et de
+l'éducation.
 
 Dans le cadre de la politique contractuelle prévue à l'article L. 711-1 du code de l'éducation, il peut être habilité à
 délivrer des diplômes nationaux dans les conditions fixées à l'article L. 613-1 du même code.
@@ -3476,7 +3491,11 @@ délivrer des diplômes nationaux dans les conditions fixées à l'article L. 61
 
 	**Modifié par**:
 
-	  - Loi n°2010-1536 du 13 décembre 2010 - art. 3
+	  - Loi n°2013-595 du 8 juillet 2013 - art. 75
+
+	**Abrogé par**:
+
+	  - Loi n°2013-660 du 22 juillet 2013 - art. 66
 
 	**Cite**:
 
