@@ -1,5 +1,5 @@
 # Code de la recherche  
-Version Consolidée au 2016-10-09
+Version Consolidée au 2016-12-10
 
 # Partie législative
 
@@ -1544,16 +1544,11 @@ titre III du livre V du code de l'environnement.
 ###### Article L251-1
 
 Toute activité de recherche scientifique marine, menée dans la mer territoriale, dans la zone économique exclusive et dans la
-zone de protection écologique définies par la loi n° 76-655 du 16 juillet 1976 relative à la zone économique exclusive et à
-la zone de protection écologique au large des côtes du territoire de la République et sur le plateau continental, est soumise
-à une autorisation assortie, le cas échéant, de prescriptions dans les conditions et selon les modalités fixées par décret en
-Conseil d'Etat.
+zone de protection écologique définies par l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes
+relevant de la souveraineté ou de la juridiction de la République française, est soumise à une autorisation assortie, le cas
+échéant, de prescriptions dans les conditions et selon les modalités fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°76-655 du 16 juillet 1976
 
 	**Anciens textes**:
 
@@ -1572,21 +1567,26 @@ Conseil d'Etat.
 	  - Code de la recherche - art. L266-1 (V)
 	  - Code de la recherche - art. L267-1 (V)
 
+	**Cite**:
+
+	  - Ordonnance n°2016-1687 du 8 décembre 2016
+
 	**Modifié par**:
 
-	  - Loi n°2016-1087 du 8 août 2016 - art. 96
+	  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 63
 
 
 ###### Article L251-2
 
 Est puni de 15 000 € d'amende le fait d'entreprendre ou de poursuivre sans autorisation, lorsqu'elle y est soumise, une
-activité de recherche scientifique marine dans les zones mentionnées à l'article L. 251-1.
+activité de recherche scientifique marine dans les zones mentionnées à l'article L. 251-1. Les même peines sont applicables
+au fait de ne pas transmettre aux autorités compétentes les renseignements et données mentionnées à l'article L. 251-3.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-1087 du 8 août 2016 - art. 96
+	  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 63
 
 
 ###### Article L251-3
@@ -1594,8 +1594,9 @@ activité de recherche scientifique marine dans les zones mentionnées à l'arti
 Toute autorisation de réaliser des recherches dans les espaces maritimes sous souveraineté ou juridiction nationale est
 subordonnée à l'engagement de communiquer les renseignements et données recueillis ainsi que les éléments nécessaires à leur
 exploitation, selon leur contenu, à l'Institut français de recherche pour l'exploitation de la mer, à l'Agence française pour
-la biodiversité, à Météo-France, au service hydrographique et océanographique de la marine ou à tout autre organisme
-scientifique public désigné par l'Etat. 
+la biodiversité, à Météo-France, au service hydrographique et océanographique de la marine, au centre d'études et d'expertise
+sur les risques, l'environnement, la mobilité et l'aménagement ou à tout autre organisme scientifique public, ou
+administration publique désigné par l'Etat. 
 
 Les renseignements et les données recueillis lors des recherches et intéressant la sécurité de la navigation ainsi que ceux
 concernant les propriétés physico-chimiques ou les mouvements des eaux sous-jacentes tombent immédiatement dans le domaine
@@ -1608,9 +1609,9 @@ pour les expertises qui leur sont demandées en application d'une disposition l�
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2016-1087 du 8 août 2016 - art. 96
+	  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 63
 
 	**Cité par**:
 
@@ -1618,6 +1619,7 @@ pour les expertises qui leur sont demandées en application d'une disposition l�
 	  - Décret n°2017-956 du 10 mai 2017 - art. 15 (VD)
 	  - Décret n°2017-956 du 10 mai 2017 - art. 3 (VD)
 	  - Décret n°2017-956 du 10 mai 2017 - art. 4 (VD)
+	  - Code minier (nouveau) - art. L412-6 (V)
 
 
 #### Chapitre II : Les recherches sur la gestion des déchets radioactifs.
